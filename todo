@@ -1,2 +1,5 @@
 lua：
-调用luaC_fix将配置表设置为不gc，能否减少gc的压力？
+调用luaC_fix设置为不gc
+
+算法：
+双数组线索树算法 darts
