@@ -1,6 +1,6 @@
 lua：
 调用luaC_fix设置为不gc
-云风 profile （lua性能分析）
+性能分析 luaprofile
 
 算法：
 双数组线索树算法 darts
