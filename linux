@@ -14,3 +14,7 @@ head -110 file | tail -10
 
 #svn
 svn up -r 10 #回滚到版本10
+
+打包&解包
+tar -czvf test.tar.gz a.c   打包
+tar -xzvf test.tar.gz       解包
